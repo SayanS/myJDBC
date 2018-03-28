@@ -1,3 +1,5 @@
+package dbutils;
+
 import java.sql.*;
 
 public class DBase {
